@@ -29,8 +29,11 @@ You can reach me through the following platforms:
 - **Email:** jean.marc.taillant@gmail.com
 - **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/tataille](https://www.linkedin.com/in/jeanmarctaillant/)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tataille&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tataille&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tataille&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and contribute to any projects that interest you.

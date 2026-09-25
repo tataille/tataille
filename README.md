@@ -29,11 +29,12 @@ You can reach me through the following platforms:
 - **Email:** jean.marc.taillant@gmail.com
 - **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/tataille](https://www.linkedin.com/in/jeanmarctaillant/)
 
-## 📊 GitHub Stats
+## 📊 Project Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tataille&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tataille&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![npm version](https://img.shields.io/npm/v/@tataille/node-red-french-holidays)
+![npm downloads](https://img.shields.io/npm/dm/@tataille/node-red-french-holidays)
+![GitHub stars](https://img.shields.io/github/stars/tataille/node-red-french-holidays?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/tataille/node-red-french-holidays)
+![GitHub license](https://img.shields.io/github/license/tataille/node-red-french-holidays)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and contribute to any projects that interest you.
